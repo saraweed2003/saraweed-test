@@ -1,9 +1,8 @@
-<script setup>
-import TheWelcome from '../components/TheWelcome.vue'
-</script>
+<script setup></script>
 
 <template>
-  <main>
-    <TheWelcome />
-  </main>
+  <div>
+    <div>Follow me!</div>
+    <h1><a href="https://www.youtube.com/@SARAWEED"> SARAWEED </a></h1>
+  </div>
 </template>

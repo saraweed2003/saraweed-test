@@ -1,6 +1,6 @@
 <template>
   <div class="about">
-    <h1>Welcome to My website SARAWEED</h1>
+    <h1>Welcome to My website.</h1>
   </div>
 </template>
 
